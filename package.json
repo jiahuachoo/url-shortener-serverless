@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "aws-sdk-mock": "^4.5.0",
+        "jest": "^24.8.0"
+    }
+}
